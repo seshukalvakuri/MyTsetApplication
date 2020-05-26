@@ -1,0 +1,2 @@
+rootProject.name='MyTsetApplication'
+include ':app'

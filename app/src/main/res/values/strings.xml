@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyTsetApplication</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="signin">Signin</string>
+    <string name="terms_cb">Accept terms and conditions</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="lastname">Lastname</string>
+    <string name="firstname">Firstname</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+</resources>
